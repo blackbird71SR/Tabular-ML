@@ -20,5 +20,6 @@ Team
 
 ### Daily Log by Akash
 
-- 20/01 - 
-- 21/01 -
+- 20/01 - Revised the basics of python. And In machine learning , learned the mathematics topics like mean, median, mode, std deviation, variance, percentiles.
+- 21/01 - Learned how to plot the graph using matplotlib module for the given data set. And also different types of regression, linear, polynomial, multiple.
+- 22/01 - Done the training and testing of data set and also the basics of decision tree and the modules required for the same.
