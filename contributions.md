@@ -9,9 +9,9 @@ Team
 
 ### Tasks
 
-- [ ] Get to know the team
-- [ ] Finalize the project idea
-- [ ] Create Github Repo and start contribution log
+- [x] Get to know the team
+- [x] Finalize the project idea
+- [x] Create Github Repo and start contribution log
 
 ### Daily Log by Ayush
 
