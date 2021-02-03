@@ -27,3 +27,4 @@ Team
 - 27/01 - Read the Titanic Data Science problem and seen the solution like how we perform preprocessing and after preprocessing how we test the model.
 - 30/01 - Understood how to convert how to convert everything in data to number as machine learning understands only numbers.
 - 2/02 - strarted working on data set and generalizing the model. 
+- 3/02 - 
