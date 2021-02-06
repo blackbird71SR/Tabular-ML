@@ -26,5 +26,5 @@ Team
 - 25/01 - Seen the basics of python modules like numpy, pandas, random, etc. and how to plot graph using matplotlib.pyplot module.
 - 27/01 - Read the Titanic Data Science problem and seen the solution like how we perform preprocessing and after preprocessing how we test the model.
 - 30/01 - Understood how to convert how to convert everything in data to number as machine learning understands only numbers.
-- 2/02 - strarted working on data set and generalizing the model. 
+- 2/02 -  
 - 3/02 - 
