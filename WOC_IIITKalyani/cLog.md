@@ -26,5 +26,8 @@ Team
 - 25/01 - Seen the basics of python modules like numpy, pandas, random, etc. and how to plot graph using matplotlib.pyplot module.
 - 27/01 - Read the Titanic Data Science problem and seen the solution like how we perform preprocessing and after preprocessing how we test the model.
 - 30/01 - Understood how to convert how to convert everything in data to number as machine learning understands only numbers.
-- 2/02 -  
-- 3/02 - 
+- 2/02 - Understood the training part of the titanic data set and implemented in Jupiter Notebook it by own.
+- 5/02 - Understood the testing part  and implemented the same in Jupiter Notebook.
+- 7/02 - Installed Pycharm and understood the environment of pycharm with same basic python code.
+- 10/02 - Tried to implement the same problem, i.e. Titanic Data Set Solution with pycharm environment.
+- 13/02 - From 13 onwards , tried to optimize the solution and also thought of some generalizing the solution, like to work with any data set.
